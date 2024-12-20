@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Jonathan García </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a><img src="https://1drv.ms/i/s!ArjGeNbqgLtflgciNWnWpU1bbsKt?e=9V6Rl6"></a>
+  <a href="https://ibb.co/fDSQVNv"><img src="https://i.ibb.co/Y0Wb4dZ/Captura-de-pantalla-2024-12-19-200413.png" alt="Captura-de-pantalla-2024-12-19-200413" border="0"></a>
 </p>
 
 
