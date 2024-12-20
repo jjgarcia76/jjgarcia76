@@ -18,7 +18,7 @@
 - Enthusiastic about Full Stack development and problem-solving.
 - Actively engaging in programming challenges and developing personal projects in my spare time.
 - Currently self-learning web development, refining core technologies, and expanding my expertise in Deep Learning, Machine Learning, AWS, React Native, and more.
-- This account was previously used during my school years in Kinal (jgarcia-2019121@kinal.edu.gt), but it now serves as my personal profile.
+- This account was previously used during my school years in Kinal ( jgarcia-2019121 ), but it now serves as my personal profile.
 - Open to internship opportunities or part-time roles to further develop my skills as a developer.
 
 <br><br>
